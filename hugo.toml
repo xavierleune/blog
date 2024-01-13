@@ -1,4 +1,4 @@
-baseURL = 'https://xavierleune.github.io/blog/'
+baseURL = 'https://xavierleune.tech/'
 languageCode = 'fr-FR'
 title = 'Blog personnel de Xavier Leune'
 theme = 'anatole'
@@ -27,7 +27,7 @@ url = "https://github.com/beoneself"
 [[params.socialIcons]]
 icon = "fa fa-file-pdf"
 title = "CV"
-url = "/blog/2023-CV-Xavier-Leune-ano.pdf"
+url = "/2023-CV-Xavier-Leune-ano.pdf"
 
 [menu]
 
