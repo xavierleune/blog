@@ -24,6 +24,11 @@ icon = "fab fa-twitter"
 title = "Twitter"
 url = "https://github.com/beoneself"
 
+[[params.socialIcons]]
+icon = "fa fa-file-pdf"
+title = "CV"
+url = "/2023-CV-Xavier-Leune-ano.pdf"
+
 [menu]
 
   [[menu.main]]
@@ -33,13 +38,17 @@ url = "https://github.com/beoneself"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Talks"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "talks"
+  url = "/talks/"
 
   [[menu.main]]
   name = "About"
   weight = 300
   identifier = "about"
   url = "/about/"
+  
+[services]
+  [services.googleAnalytics]
+    ID = 'G-9Z8ZMTJR6Q'
