@@ -1,0 +1,45 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-FR'
+title = 'Blog personnel de Xavier Leune'
+theme = 'anatole'
+
+[params]
+title = "Blog de Xavier Leune"
+author = "Xavier Leune"
+description = "PHP et affinités"
+profilePicture = "images/profile.jpg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/xleune/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/xavierleune"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://github.com/beoneself"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
