@@ -27,7 +27,7 @@ url = "https://github.com/beoneself"
 [[params.socialIcons]]
 icon = "fa fa-file-pdf"
 title = "CV"
-url = "/2023-CV-Xavier-Leune-ano.pdf"
+url = "/blog/2023-CV-Xavier-Leune-ano.pdf"
 
 [menu]
 
