@@ -38,8 +38,14 @@ url = "/2023-CV-Xavier-Leune-ano.pdf"
   url = "/"
 
   [[menu.main]]
-  name = "Talks"
+  name = "Veille"
   weight = 200
+  identifier = "veille"
+  url = "/veille/"
+
+  [[menu.main]]
+  name = "Talks"
+  weight = 250
   identifier = "talks"
   url = "/talks/"
 
