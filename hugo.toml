@@ -50,7 +50,7 @@ url = "/2023-CV-Xavier-Leune-ano.pdf"
   url = "/talks/"
 
   [[menu.main]]
-  name = "About"
+  name = "À propos de moi"
   weight = 300
   identifier = "about"
   url = "/about/"
