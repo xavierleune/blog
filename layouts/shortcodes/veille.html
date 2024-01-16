@@ -12,7 +12,7 @@
     {{ range seq $len }}<!-- iterate over $len -->
         {{ $i := sub $len . }}<!-- Substract current index to $len -->
         {{ $row := index $data $i }}<!-- Get row at index $i (decreasing) -->
-        <li><a href="{{ index $row 0 }}" target="_blank">{{ index $row 2 }}<i class="fa-solid fa-arrow-up-right-from-square"></i></a> - {{ index $row 3 }} - (Ajout: {{ index $row 1 }})</li>
+        <li><a href="{{ index $row 0 }}" target="_blank">{{ index $row 2 }} <i class="fa-solid fa-arrow-up-right-from-square"></i></a> - {{ index $row 3 }} - (Ajout: {{ index $row 1 }})</li>
     {{ end }}
 </ul>
 {{ end }}
