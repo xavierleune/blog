@@ -1,5 +1,6 @@
 baseURL = 'https://xavierleune.tech/'
 languageCode = 'fr-FR'
+defaultContentLanguage = 'fr'
 title = 'Blog personnel de Xavier Leune'
 theme = 'anatole'
 
@@ -58,3 +59,8 @@ url = "/2023-CV-Xavier-Leune-ano.pdf"
 [services]
   [services.googleAnalytics]
     ID = 'G-9Z8ZMTJR6Q'
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
