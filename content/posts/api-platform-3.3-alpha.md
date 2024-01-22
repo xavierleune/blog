@@ -37,3 +37,8 @@ que les composer.json sont présents depuis quelques versions dans le [repositor
 - api-platform/core
 
 La version 3.3 d'API Platform devrait être distribuée dans le courant du mois de février 2024.
+
+PS: la version d'API Platform a été également publiée, elle contient une mise à jour liée à la documentation, une amélioration
+autour de la gestion des nombres et des entiers pour améliorer la compatibilité avec le draft 4 de JSONSchema et enfin
+une amélioration notable de performance que j'ai eu le plaisir de réaliser, permettant de supprimer des requêtes `COUNT` lorsque
+les informations de pagination ne sont pas requises dans un context GraphQL.
