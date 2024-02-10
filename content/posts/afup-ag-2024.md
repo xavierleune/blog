@@ -5,7 +5,8 @@ draft = false
 +++
 
 Le 10 février 2024 s'est tenue l'assemblée générale de l'AFUP (en format hybride).
-Sébastien Rogier, Président sortant de l'association, est revenu sur le bilan complet de l'association pour l'année 2023.
+Sébastien Rogier, Président sortant de l'association, est revenu sur le bilan complet de l'association pour l'année 2023, puis lui ont succédés Stéphanie Trumtel
+en tant que trésorière sortante, Jacques Bodin-Hullin le président du conseil de surveillance et enfin Mikaël Randy, vice-président sortant.
 
 ## Baromètre des salaires
 Parmi les points positifs, le baromètre des salaires, l'enquête de référence des salaires dans le monde du PHP, a connu un nombre record de participations (plus de 1000). Les résultats seront diffusés sur [le site dédiés](https://barometre.afup.org/) courant mars 2024. À noter, des réflexions sont menées pour modifier le planning de l'enquête du baromètre.
