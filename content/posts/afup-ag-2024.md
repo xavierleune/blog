@@ -22,6 +22,8 @@ L’événement printanier de l'AFUP, à la fois local & national, s'est très b
 
 ## L'association
 L'AFUP a souligné qu'il y avait cette année moins de membres rattachés via leur entreprise, année difficile lors de laquelle moins d'entreprises ont adhéré, en lien avec la baisse des inscriptions au Forum PHP, le lien entre les inscriptions et les adhésions se faisant via le tarif réduit proposé aux membres.
+Sur un autre registre, Amélie Deffrennes est désormais promue au poste de Directrice des Opérations, ce qui est amplement
+mérité vues toutes ses qualités professionnelles et humaines. Félicitations à Amélie !
 
 ### La fiscalité
 La nouveauté pour l'association est qu'elle est soumise à fiscalité depuis le 1er janvier, ce qui lui permet de récupérer la TVA sur les (grosses) dépenses de salles (par exemple) ; ce qui devrait aider à retrouver un meilleur équilibre financier. Pour les cotisations des membres particuliers, l'impact de la TVA va être absorbé par l'AFUP (afin qu'elle reste au tarif public de 30€).
@@ -42,10 +44,13 @@ Le programme du bureau 2024 s'inscrit dans la continuité du programme des anné
 Le bilan 2024 devrait être mieux orienté, encore légèrement dans le rouge de 3K€. Cependant plusieurs hypothèses permettent d'envisager un atterrissage positif.
 
 La composition du bureau 2024 sera:
-- Président : Mikael Randy
+- Président : Mikaël Randy
 - Vice-président : Olivier Allain
 - Trésorier : Adrien Gallou
 - Vice-trésorier : Nathan Boiron
 - Secrétaire : Christophe Moncy
 - Vice-secrétaire : Baptiste Leduc
 
+Un grand bravo au bureau sortant pour cette belle année 2023 et plus particulièrement un immense merci à Sébastien Rogier pour son investissement et son suivi impeccable.
+Je souhaite également le meilleur au nouveau bureau qui n'aura pas moins de challenge à relever en 2024 ! Je suis sûr que l'AFUP saura notamment compter sur l'expérience de 
+Mikaël Randy.
