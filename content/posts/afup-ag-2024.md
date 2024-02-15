@@ -31,7 +31,7 @@ La nouveauté pour l'association est qu'elle est soumise à fiscalité depuis le
 
 ### Le bilan financier
 Deuxième année consécutive en déficit pour l'AFUP, de près de 24 000€. Les raisons sont notamment un Forum PHP dans le rouge, malgré de gros efforts faits sur les dépenses, les ventes de billets insuffisantes n'ont pas permis de couvrir tous les frais du Forum. L'inflation, répercutée pour partie sur les frais de l'événements, mais surtout le contexte économique difficile qui a impacté les ventes de billets aux entreprises, sont à l'origine de ce mauvais résultat. Une augmentation des charges de fonctionnement est à noter avec l'arrivée d'une nouvelle personne pour assister la trésorerie, dépense nécessaire cependant pour soulager sur ce poste qui est
-
+essentiel et difficile à tenir pour une seule personne bénévole. 
 Cependant l'association est encore pérenne, puisqu'elle dispose de 119 K€ de fonds propres, ce qui lui permet de faire le dos rond pendant ces mauvaises années et d’affûter sa stratégie pour les années à venir.
 
 Le cabinet comptable invite dans son commentaire à multiplier les AFUP Day, dont la rentabilité est meilleure et à limiter les dépenses du Forum.
