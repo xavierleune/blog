@@ -9,6 +9,7 @@ title = "Blog de Xavier Leune"
 author = "Xavier Leune"
 description = "PHP et affinités"
 profilePicture = "images/profile.jpg"
+customJs = ["js/analytics.js"]
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -21,14 +22,14 @@ title = "Github"
 url = "https://github.com/xavierleune"
 
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://github.com/beoneself"
+icon = "fa fa-globe"
+title = "Alke Analytics: analytics built for publishers"
+url = "https://www.alketech.eu"
 
 [[params.socialIcons]]
-icon = "fa fa-file-pdf"
-title = "CV"
-url = "/2023-CV-Xavier-Leune-ano.pdf"
+icon = "fab fa-bluesky"
+title = "Xavier Leune on Bluesky"
+url = "https://bsky.app/profile/beoneself.bsky.social"
 
 [menu]
 
@@ -55,10 +56,6 @@ url = "/2023-CV-Xavier-Leune-ano.pdf"
   weight = 300
   identifier = "about"
   url = "/about/"
-  
-[services]
-  [services.googleAnalytics]
-    ID = 'G-9Z8ZMTJR6Q'
 
 [taxonomies]
   category = "categories"

@@ -1,11 +1,11 @@
 {{ $data := "" }}
 {{ $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmAK5pG3PHCIc2PAY2lMskdOL5iMquLHbGpGM6cV6X0mphToSDKrMwPzH5grmFV501EKw2iTmVrMuN/pub?output=csv" }}
 {{ $cacheKey := print $url (now.Format "2006-01-02 14:15:10") }}
-{{ with resources.GetRemote $url (dict "key" $cacheKey) }}
+{{ with try (resources.GetRemote $url (dict "key" $cacheKey)) }}
 {{ with .Err }}
 {{ errorf "%s" . }}
 {{ else }}
-{{ $data = . | transform.Unmarshal }}
+{{ $data = .Value | transform.Unmarshal }}
 {{ $data = (after 1 $data) }}<!-- Skip first item -->
 <ul>
     {{ $len := len $data }}
