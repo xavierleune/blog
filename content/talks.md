@@ -6,6 +6,31 @@ date = 2024-01-13T15:46:09+01:00
 Le partage fait partie de mes valeurs maîtresses. Donner des conférences permet de faire bénéficier à la communauté
 de sujets traités en entreprise et d'obtenir des retours enrichissants pour mes projets.
 
+## Forum PHP 2025
+Lors de l'édition 2025 du [Forum PHP](https://event.afup.org/), fêtant les 30 ans du langage et les 25 ans de l'association, 2 conférences:
+
+### 180 000 Requêtes par seconde expliqué simplement
+> Avez-vous déjà cherché à savoir comment pousser vos appels API jusqu’à leurs ultimes limites ? Cette conférence dévoile comment atteindre 
+> l’étonnant chiffre de 180 000 requêtes par seconde depuis un simple ordinateur portable, en plongeant dans les détails techniques de curl, HTTP, pcntl et PHP.
+> Au-delà de la performance pure, nous explorerons les stratégies de scaling horizontal pour atteindre des niveaux de débit encore supérieurs.
+> Des techniques d’optimisation aux décisions d’architecture, découvrez comment surmonter les obstacles courants et faire passer vos applications au niveau supérieur.
+
+> Bien qu’abordant des concepts avancés, cette présentation suit une méthode pas à pas la rendant accessible aux devs de tous niveaux.
+
+### Comment être un·e bon·ne dév à l'heure des IA génératives ? 
+> En seulement 18 mois, ce qui nous semblait encore lointain est venu transformer notre quotidien de dev. Les IA génératives pour le code sont passées
+> de simples outils amusants mais peu efficaces à de véritables assistants capables d'interagir avec des bases de code complexes et de comprendre des
+> systèmes sophistiqués. Entre inquiétudes pour notre avenir professionnel et cette nouvelle forme de collaboration avec les machines, comment exceller
+> dans notre métier aujourd'hui et rester pertinent dans les années à venir ? Après plus d'une décennie en management, où évaluer la contribution de
+> chacun•e au sein des équipes était de ma responsabilité, je me pose la question : quelles compétences vont perdurer et lesquelles risquent de disparaître ?
+> Et surtout, quels savoir-faire devons-nous impérativement conserver pour assurer notre avenir professionnel ? Dans cette conférence, je laisserai de côté
+> les aspects purement techniques pour vous proposer une réflexion sur l'évolution de notre profession. Ensemble, nous explorerons comment nous adapter à
+> un monde où l'intelligence artificielle redéfinit progressivement notre métier.
+
+## API Platform Con 2025: 180 000 Requêtes par seconde expliqué simplement
+Conférence à Lille lors pour les 10 ans d'API Platform à l'occasion de l'[API Platform Con 2025](https://api-platform.
+com/fr/con/2025/conferences/#180000-requetes-par-seconde-explique-simplement).
+
 ## API Platform Con 2023: API Platform, opendata et schemaless API
 {{< youtube R1MNtsgeopo >}}
 
