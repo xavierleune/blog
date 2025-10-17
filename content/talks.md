@@ -28,8 +28,7 @@ Lors de l'édition 2025 du [Forum PHP](https://event.afup.org/), fêtant les 30 
 > un monde où l'intelligence artificielle redéfinit progressivement notre métier.
 
 ## API Platform Con 2025: 180 000 Requêtes par seconde expliqué simplement
-Conférence à Lille lors pour les 10 ans d'API Platform à l'occasion de l'[API Platform Con 2025](https://api-platform.
-com/fr/con/2025/conferences/#180000-requetes-par-seconde-explique-simplement).
+Conférence à Lille lors pour les 10 ans d'API Platform à l'occasion de l'[API Platform Con 2025](https://api-platform.com/fr/con/2025/conferences/#180000-requetes-par-seconde-explique-simplement).
 
 ## API Platform Con 2023: API Platform, opendata et schemaless API
 {{< youtube R1MNtsgeopo >}}
